@@ -1,3 +1,4 @@
 for x in range(0, 3):
-  print("We're on time " + str(x))
+  print "WE ARE ON TIME %d" % (x)
   
+print "Look, I'm learning!"
